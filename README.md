@@ -7,11 +7,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
 [![Dawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=domainance&count_private=true)](https://github.com/domainance/github-readme-stats)
-</details>
 
 ---
 
