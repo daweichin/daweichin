@@ -1,9 +1,9 @@
 ### Hi there, I'm David (大卫) 👋
 
-- 🔭 I’m currently working as a systems engineer && student (part time)
-- 🌱 I’m currently learning as much as I can about software
-- 👯 I’m looking to collaborate on anything :)
-- ⚡ Fun fact: I love to cycle, play pool/snooker, badminton and gaming.
+- 🔭 I’m currently working as a systems engineer & finishing my Masters in IT part time
+- 🌱 I love learning about computers, software and the internet
+- 👯 Stay hungry, stay foolish
+- ⚡ My hobbies: cycling, pool/snooker, badminton, gaming
 
 ---
 
